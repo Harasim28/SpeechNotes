@@ -1,0 +1,13 @@
+build/
+*.pro.user
+*.rpm
+__pycache__/
+*.pyc
+.venv/
+*.tar.bz2
+lib/armv7hl/*.a
+models/*.bin
+*.onnx
+*.bin
+models/gigaam/
+models/whisper/

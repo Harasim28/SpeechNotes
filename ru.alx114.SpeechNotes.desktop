@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.alx114.SpeechNotes
+Exec=/usr/bin/ru.alx114.SpeechNotes
+Name=SpeechNotes
+Name[ru]=SpeechNotes
+
+[X-Application]
+Permissions=Audio;Internet;Microphone;UserDirs
+OrganizationName=ru.alx114
+ApplicationName=SpeechNotes
+ExecDBus=/usr/bin/ru.alx114.SpeechNotes
